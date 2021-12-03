@@ -8,6 +8,7 @@ authors = ["JaffarA <jaffar.almaleki@gmail.com>"]
 python = "^3.9"
 
 [tool.poetry.dev-dependencies]
+black = "^21.11b1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
