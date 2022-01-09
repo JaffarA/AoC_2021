@@ -1,4 +1,4 @@
-def get_day_input_as_list(file_name, cast=int) -> list:
+def get_day_input_as_list(file_name: str, cast: type = int) -> list:
     """
     Reads a text file and returns a list of lines cast as the type of cast.
     """
