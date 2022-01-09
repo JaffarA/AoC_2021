@@ -1,6 +1,6 @@
 *.pyc
 *.pyc
-.vscode
 .DS_Store
 .python-version
-.vscode/*
+.vscode/
+poetry.lock
